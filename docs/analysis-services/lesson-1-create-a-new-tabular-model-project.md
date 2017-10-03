@@ -64,7 +64,7 @@ Este tema es la primera lección de un tutorial de creación de modelos tabulare
 ## <a name="understanding-the-ssdt-tabular-model-authoring-environment"></a>Descripción del entorno de creación de modelos tabulares de SSDT  
 Ahora que ha creado un nuevo proyecto de modelo tabular, dedique un momento a examinar el entorno de SSDT de creación de modelos tabulares.  
   
-Una vez creado el proyecto, se abre en SSDT. En el lado derecho, en **Explorador de modelos tabulares**, verá una vista de árbol de los objetos en el modelo. Puesto que aún no ha importado datos, las carpetas estará vacías. Puede hacer clic una carpeta de objeto para llevar a cabo acciones, similares a la barra de menús. Paso a paso a través de este tutorial, usará el Explorador de modelos tabulares para navegar por los distintos objetos en el proyecto de modelos.
+Una vez creado el proyecto, se abre en SSDT. En el lado derecho, en **Explorador de modelos tabulares**, verá una vista de árbol de los objetos en el modelo. Puesto que aún no ha importado datos, las carpetas estará vacías. Puede hacer clic derecho a un objeto de carpeta para llevar a cabo acciones, similares a la barra de menús. Paso a paso a través de este tutorial, usará el Explorador de modelos tabulares para navegar por los distintos objetos en el proyecto de modelos.
 
 ![como-tabular-lesson1-tiempo](../analysis-services/media/as-tabular-lesson1-tme.png)
 
